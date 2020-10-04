@@ -8,3 +8,4 @@ commands:
     usage: /toggleafk, /afk
     aliases:
       - afk
+api-version: 1.16
